@@ -10,7 +10,7 @@ A console-based quiz game developed using structured programming concepts in C/C
 - Result display system
 
 ## Technologies Used
-- C/C++
+- C
 
 ## Learning Outcome
 This project helped me understand structured programming, conditional statements, arrays, functions, and basic software design.
